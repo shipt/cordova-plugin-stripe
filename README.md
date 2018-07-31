@@ -1,13 +1,9 @@
 # Cordova Stripe Plugin
 A Cordova plugin that lets you use Stripe Native SDKs for Android, iOS and Browser.
 
-[![npm](https://img.shields.io/npm/l/cordova-plugin-stripe.svg)](https://www.npmjs.com/package/cordova-plugin-stripe/)
-[![npm](https://img.shields.io/npm/dt/cordova-plugin-stripe.svg)](https://www.npmjs.com/package/cordova-plugin-stripe)
-[![npm](https://img.shields.io/npm/dm/cordova-plugin-stripe.svg)](https://www.npmjs.com/package/cordova-plugin-stripe)
-
 ## Installation
 ```shell
-cordova plugin add cordova-plugin-stripe
+cordova plugin add @shipt/cordova-plugin-stripe
 ```
 
 <br>
@@ -263,8 +259,11 @@ This plugin provides browser platform support. Method names and signatures match
 
 <br><br>
 ## Contribution
-- **Having an issue**? or looking for support? [Open an issue](https://github.com/zyra/cordova-plugin-stripe/issues/new) and we will get you the help you need.
+- **Having an issue**? or looking for support? [Open an issue](https://github.com/zyramedia/cordova-plugin-stripe/issues/new) and we will get you the help you need.
 - Got a **new feature or a bug fix**? Fork the repo, make your changes, and submit a pull request.
 
 ## Support this project
-If you find this project useful, please star the repo to let people know that it's reliable. Also, share it with friends and colleagues that might find this useful as well. Thank you :smile:
+If you find this project useful, please star the repo to let people know that it's reliable. Also, share it with friends and colleagues that might find this useful as well. Thank you :smile:  
+
+## Credits
+Based on the original work by [Zyra](https://github.com/zyra/cordova-plugin-stripe)
